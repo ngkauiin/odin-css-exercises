@@ -25,6 +25,7 @@ body {
 .right-container,
 .links {
   display: flex;
+  align-items: center;
 }
 
 .left-container {
@@ -33,12 +34,10 @@ body {
 
 .links {
   gap: 15px;
-  align-items: center;
   margin: 15px;
 }
 
 .right-container {
-  align-items: center;
   gap: 20px;
 }
 
