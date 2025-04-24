@@ -50,8 +50,12 @@ a {
   justify-content: space-between;
 }
 
+.header,
+.footer {
+  padding: 10px;
+}
+
 .left-links,
 .right-links {
   gap: 20px;
-  padding: 10px;
 }
