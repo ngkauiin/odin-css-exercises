@@ -33,6 +33,8 @@ body {
 
 .links {
   gap: 15px;
+  align-items: center;
+  margin: 15px;
 }
 
 .profile-image {
