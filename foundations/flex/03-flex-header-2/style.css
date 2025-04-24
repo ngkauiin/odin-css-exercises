@@ -14,6 +14,13 @@ body {
   box-shadow: 0 0 8px rgba(0,0,0,.1);
 }
 
+.header,
+.left-container,
+.right-container,
+.links {
+  display: flex;
+}
+
 .profile-image {
   background: rebeccapurple;
   box-shadow: inset 2px 2px 4px rgba(0,0,0,.5);
