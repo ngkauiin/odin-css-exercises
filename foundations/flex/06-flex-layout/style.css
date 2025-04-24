@@ -10,7 +10,9 @@ body {
   margin: 0;
   overflow: hidden;
   font-family: Roboto, sans-serif;
-  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
 img {
@@ -51,4 +53,5 @@ a {
 .left-links,
 .right-links {
   gap: 20px;
+  padding: 10px;
 }
